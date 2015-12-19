@@ -1,0 +1,28 @@
+name: JAR of Memories
+favicon: null
+layout_spectrum: 0.8458413174375892
+typography_spectrum: 0.1331900847144425
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8104312599170953
+  lightness: 0.9295830263290554
+  saturation: 0.45387860969640315
+  rhythmicContrast: 0.8746940346900374
+purpose: []
